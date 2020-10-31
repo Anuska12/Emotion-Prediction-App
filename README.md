@@ -1,2 +1,2 @@
 # Emotion-Prediction-App
-Sreamlit App
+Image Classification Android App
